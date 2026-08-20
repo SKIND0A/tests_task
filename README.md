@@ -1,5 +1,13 @@
-go test -v -cover
+## Тестирование и покрытие
 
+Все тест-кейсы покрывают позитивные сценарии, граничные условия и негативные ветки валидации.
+
+| Пакет | Тесты | Результат | Покрытие | Время |
+| :--- | :---: | :---: | :---: | :---: |
+| `validator` | 14 / 14 |  PASS | **100.0%** | 0.009s |
+
+
+```text
 === RUN   TestValidatePassword
 === RUN   TestValidatePassword/password_is_empty
 === RUN   TestValidatePassword/password_is_empty#01
@@ -33,5 +41,3 @@ go test -v -cover
 PASS
 coverage: 100.0% of statements
 ok      study/go/tests_tasks    0.009s
-
-//100% покрытие
