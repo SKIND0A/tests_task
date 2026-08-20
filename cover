@@ -1,0 +1,22 @@
+mode: set
+study/go/tests_tasks/validator.go:47.46,48.39 1 1
+study/go/tests_tasks/validator.go:48.39,50.3 1 1
+study/go/tests_tasks/validator.go:52.2,52.36 1 1
+study/go/tests_tasks/validator.go:52.36,54.3 1 1
+study/go/tests_tasks/validator.go:55.2,55.36 1 1
+study/go/tests_tasks/validator.go:55.36,57.3 1 1
+study/go/tests_tasks/validator.go:59.2,59.61 1 1
+study/go/tests_tasks/validator.go:59.61,61.3 1 1
+study/go/tests_tasks/validator.go:63.2,64.29 2 1
+study/go/tests_tasks/validator.go:64.29,65.10 1 1
+study/go/tests_tasks/validator.go:66.27,67.30 1 1
+study/go/tests_tasks/validator.go:68.27,69.19 1 1
+study/go/tests_tasks/validator.go:70.27,71.19 1 1
+study/go/tests_tasks/validator.go:72.27,73.19 1 1
+study/go/tests_tasks/validator.go:77.2,77.15 1 1
+study/go/tests_tasks/validator.go:77.15,79.3 1 1
+study/go/tests_tasks/validator.go:80.2,80.15 1 1
+study/go/tests_tasks/validator.go:80.15,82.3 1 1
+study/go/tests_tasks/validator.go:83.2,83.15 1 1
+study/go/tests_tasks/validator.go:83.15,85.3 1 0
+study/go/tests_tasks/validator.go:87.2,87.12 1 1
